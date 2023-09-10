@@ -20,3 +20,5 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonyxzx)](https://github.com/anuraghazra/github-readme-stats)
